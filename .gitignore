@@ -1,0 +1,26 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Editor/IDE files
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Build or dist folders (if you have any)
+dist/
+build/
+
+# Other common ignores for web projects
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
