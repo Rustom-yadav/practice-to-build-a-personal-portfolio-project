@@ -1,6 +1,5 @@
 # Personal Portfolio Website (Practice Project)
-## live demo [click here](https://rustom-yadav.github.io/practice-to-build-a-personal-portfolio-project/
-)
+## live demo [click here](https://rustom-yadav.github.io/practice-to-build-a-personal-portfolio-project/)
 ## github repo link [click here](https://github.com/Rustom-yadav/practice-to-build-a-personal-portfolio-project)
 
 This is a basic **personal portfolio website** created as a **practice project** using **HTML and CSS**.
